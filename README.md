@@ -14,6 +14,21 @@ decision-making.
 - 🔍 Skilled in building robust software systems that leverage machine learning, data pipelines, and predictive algorithms to drive actionable outcomes.
 -  📚 Committed to continuous learning and knowledge sharing through personal projects and community involvement.
 
+## Featured Projects 🌟
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://github.com/WendyamKarol/IA-Projects-Hub/tree/main/RAG/NOTEBOOKS">
+        <img src="https://aimodels.org/multimodal-artificial-intelligence/multimodal-models_hu424a40dc7a1f85073cf604bf1774ecf7_1711752_1280x720_crop_q90_h2_lanczos_smart1_3.webp" alt="Mutimodal RAG" width="400" height="200">
+      </a>
+      <br>
+      <b>🔵 Multimodal RAG Pipeline</b>
+      <br>
+      AI-powered document analysis system capable of simultaneously interpreting text, images, and tables to extract relevant information.
+    </td>
+
+
 
 
 ## Core Skills 🛠️
