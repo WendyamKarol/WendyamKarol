@@ -28,7 +28,16 @@ decision-making.
       AI-powered document analysis system capable of simultaneously interpreting text, images, and tables to extract relevant information.
     </td>
 
-
+<td style="text-align: center;">
+      <a href="https://github.com/WendyamKarol/IA-Projects-Hub/tree/main/Project-QueryBot/Query%20Bot">
+        <img src="https://www.ringcentral.com/gb/en/blog/wp-content/uploads/2021/01/artificial-intelligenceai-chat-bot-concept-scaled.jpg" alt="ChatBot" width="400" height="200">
+      </a>
+      <br>
+      <b>🔴 QueryBot </b>
+      <br>
+      An intelligent AI chatbot designed to answer any question across a wide range of topics with clarity, speed, and contextual understanding.
+    </td>
+</table>
 
 
 ## Core Skills 🛠️
