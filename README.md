@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Wendyam Karol S. NAZE
+# Hi! 👋 I'm Karol NAZE
 
 🔍 Aspiring Software Engineer |📊 Data-Driven Problem Solver|🤖 AI Enthusiast 
 Passionate about building robust software solutions that harness the power of data, AI, and machine learning to solve complex problems and enable smart 
