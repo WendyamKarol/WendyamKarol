@@ -8,7 +8,7 @@ decision-making.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-naze/)
 
 ## About Me ✨
-- 🏦 Experience as a Software Engineer and Data Analyst, combining technical expertise with business insights.
+- 🏦 Experience as a Software Engineer, combining technical expertise with business insights.
 - 🎓 Software Engineering major with a minor in Embedded Systems from the [University of Paris Cité](https://u-paris.fr/)
 - 🌐 Bilingual: Fluent in English and Native in French, enabling global collaboration.
 - 🔍 Skilled in building robust software systems that leverage machine learning, data pipelines, and predictive algorithms to drive actionable outcomes.
