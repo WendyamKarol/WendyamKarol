@@ -45,13 +45,13 @@ Système d'intelligence documentaire prêt pour la production avec LangChain et 
 - Réduit le temps de recherche d'information de 30%
 - **Tech** : Python, LangChain, OpenAI, Streamlit
 
-### 🤖 [microservice_autonomous_space_robot](https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot)
+### 🤖 [Microservice Autonomous Space_Robot](https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot)
 Architecture microservices pour la gestion de flotte de robots autonomes
 - Surveillance et contrôle en temps réel via API REST
 - Couverture de test à 100% avec approche TDD
 - **Tech** : Java, Spring Boot, PostgreSQL, Docker
 
-### 🚇 [subway_route_optimization](https://github.com/WendyamKarol/Stack-Lab/tree/main/subway_route_optimization)
+### 🚇 [Subway Route Optimization](https://github.com/WendyamKarol/Stack-Lab/tree/main/subway_route_optimization)
 Système d'optimisation d'itinéraires haute performance
 - Gère plusieurs calculs d'itinéraires par seconde
 - Architecture modulaire avec tests unitaires extensifs
@@ -66,7 +66,7 @@ Système d'optimisation d'itinéraires haute performance
 
 **Ingénieur Logiciel @ TYPSA** (2023)
 - Développement d'applications web data-driven
-- Résolution de 100+ incidents en production
+- Résolution de 50+ incidents en phase RUN
 - Conception de pipelines analytiques pour la business intelligence
 
 ## Actuellement
