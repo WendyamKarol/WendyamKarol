@@ -45,15 +45,15 @@ Système d'intelligence documentaire prêt pour la production avec LangChain et 
 - Réduit le temps de recherche d'information de 30%
 - **Tech** : Python, LangChain, OpenAI, Streamlit
 
-### 🤖 [SpaceBot Control](https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot)
+### 🤖 [microservice_autonomous_space_robot](https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot)
 Architecture microservices pour la gestion de flotte de robots autonomes
 - Surveillance et contrôle en temps réel via API REST
 - Couverture de test à 100% avec approche TDD
 - **Tech** : Java, Spring Boot, PostgreSQL, Docker
 
-### 🚇 [Moteur MetroFlow](https://github.com/WendyamKarol/Stack-Lab/tree/main/subway_route_optimization)
+### 🚇 [subway_route_optimization](https://github.com/WendyamKarol/Stack-Lab/tree/main/subway_route_optimization)
 Système d'optimisation d'itinéraires haute performance
-- Gère 10K+ calculs d'itinéraires par seconde
+- Gère plusieurs calculs d'itinéraires par seconde
 - Architecture modulaire avec tests unitaires extensifs
 - **Tech** : Java, Gradle, JUnit
 
