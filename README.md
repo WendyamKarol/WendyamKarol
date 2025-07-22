@@ -59,7 +59,7 @@ High-performance route optimization system
 
 ## Professional Experience
 
-**AI Engineer @ CGI** (2024)
+**AI Software Engineer @ CGI** (2024)
 - Built production RAG-powered chatbot for enterprise clients
 - Improved data access speed by 30% using RAG architecture
 - Reduced document processing time by 25% with custom CV solution
