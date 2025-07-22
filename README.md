@@ -45,7 +45,7 @@ Système d'intelligence documentaire prêt pour la production avec LangChain et 
 - Réduit le temps de recherche d'information de 30%
 - **Tech** : Python, LangChain, OpenAI, Streamlit
 
-### 🤖 [Microservice Autonomous Space_Robot](https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot)
+### 🤖 [Microservice Autonomous Space Robot](https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot)
 Architecture microservices pour la gestion de flotte de robots autonomes
 - Surveillance et contrôle en temps réel via API REST
 - Couverture de test à 100% avec approche TDD
