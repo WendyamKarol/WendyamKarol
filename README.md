@@ -39,13 +39,13 @@ Ingénieur logiciel spécialisé en IA/ML et systèmes distribués. Je conçois 
 
 ## Projets Principaux
 
-### [RAG DRH - Recommandations RH intelligentes](https://github.com/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes).
+### [RAG DRH - Recommandations RH intelligentes](https://github.com/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes)
 Système modulaire pour analyser des évaluations RH, détecter les lacunes de compétences et proposer des formations adaptées via un pipeline RAG et une extension multi-agents.
 - Extraction des lacunes de compétences à partir d’évaluations textuelles.
 - Récupération de contenus pertinents (programmes, bonnes pratiques, études de cas) via FAISS.
 - Agents dédiés par type de document, fusionnant leurs recommandations en une vue consolidée.
 
-### [RAG Optimizer – Optimisation d’Infrastructure](https://github.com/WendyamKarol/infra-optimizer-llm).
+### [RAG Optimizer – Optimisation d’Infrastructure](https://github.com/WendyamKarol/infra-optimizer-llm)
 Solution modulaire pour ingérer des métriques techniques, détecter des anomalies et générer des recommandations d’optimisation grâce à un modèle de langage (LLM).
 - **Surveillance intelligente** : Ingestion et analyse en temps réel de métriques techniques (CPU, mémoire, latence, erreurs).  
 - **Détection proactive** : Identification automatisée des anomalies critiques (surcharges, dégradations de service).  
