@@ -39,19 +39,31 @@ Ingénieur logiciel spécialisé en IA/ML et systèmes distribués. Je conçois 
 
 ## Projets Principaux
 
-### 🧠 [Pipeline RAG Multimodal](https://github.com/WendyamKarol/IA-Projects-Hub/tree/main/RAG/NOTEBOOKS)
+### [RAG DRH - Recommandations RH intelligentes](https://github.com/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes).
+Système modulaire pour analyser des évaluations RH, détecter les lacunes de compétences et proposer des formations adaptées via un pipeline RAG et une extension multi-agents.
+- Extraction des lacunes de compétences à partir d’évaluations textuelles.
+- Récupération de contenus pertinents (programmes, bonnes pratiques, études de cas) via FAISS.
+- Agents dédiés par type de document, fusionnant leurs recommandations en une vue consolidée.
+
+### [RAG Optimizer – Optimisation d’Infrastructure](https://github.com/WendyamKarol/infra-optimizer-llm).
+Solution modulaire pour ingérer des métriques techniques, détecter des anomalies et générer des recommandations d’optimisation grâce à un modèle de langage (LLM).
+- **Surveillance intelligente** : Ingestion et analyse en temps réel de métriques techniques (CPU, mémoire, latence, erreurs).  
+- **Détection proactive** : Identification automatisée des anomalies critiques (surcharges, dégradations de service).  
+- **Recommandations ciblées** : Génération d’actions concrètes pour optimiser les performances et la résilience.  
+
+###  [Pipeline RAG Multimodal](https://github.com/WendyamKarol/IA-Projects-Hub/tree/main/RAG/NOTEBOOKS)
 Système d'intelligence documentaire prêt pour la production avec LangChain et GPT-4 Vision
 - Traite des documents complexes (texte, images, tableaux) avec 95% de précision
 - Réduit le temps de recherche d'information de 30%
 - **Tech** : Python, LangChain, OpenAI, Streamlit
 
-### 🤖 [Microservice Autonomous Space Robot](https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot)
+###  [Microservice Autonomous Space Robot](https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot)
 Architecture microservices pour la gestion de flotte de robots autonomes
 - Surveillance et contrôle en temps réel via API REST
 - Couverture de test à 100% avec approche TDD
 - **Tech** : Java, Spring Boot, PostgreSQL, Docker
 
-### 🚇 [Subway Route Optimization](https://github.com/WendyamKarol/Stack-Lab/tree/main/subway_route_optimization)
+###  [Subway Route Optimization](https://github.com/WendyamKarol/Stack-Lab/tree/main/subway_route_optimization)
 Système d'optimisation d'itinéraires haute performance
 - Gère plusieurs calculs d'itinéraires par seconde
 - Architecture modulaire avec tests unitaires extensifs
