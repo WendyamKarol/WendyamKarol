@@ -3,7 +3,6 @@
 **Ingénieur Logiciel | Systèmes IA & Backend | Edge Computing**  
 Création de solutions intelligentes de l'embarqué au cloud 🚀
 
-[![CV](https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wendyamkarol.github.io/Karol-Naze-resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-naze/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.karolnaze@gmail.com)
 
@@ -68,24 +67,6 @@ Système d'optimisation d'itinéraires haute performance
 - Gère plusieurs calculs d'itinéraires par seconde
 - Architecture modulaire avec tests unitaires extensifs
 - **Tech** : Java, Gradle, JUnit
-
-## Expérience Professionnelle
-
-**Ingénieur Logiciel IA @ CGI** (2024)
-- Développement d'un chatbot RAG en production pour clients entreprise
-- Amélioration de la vitesse d'accès aux données de 30% avec architecture RAG
-- Réduction du temps de traitement documentaire de 25% avec solution CV personnalisée
-
-**Ingénieur Logiciel @ TYPSA** (2023)
-- Développement d'applications web data-driven
-- Résolution de 50+ incidents en phase RUN
-- Conception de pipelines analytiques pour la business intelligence
-
-## Actuellement
-
-- 🔍 Ouvert aux opportunités en : **Ingénierie IA/ML**, **Développement Backend**, **MLOps**
-- 🌱 J'apprends : MLOps avancé, Architecture Cloud, Finance Quantitative
-- 💡 Je développe : Agents IA pour l'automatisation, Applications FinTech
 
 ---
 
