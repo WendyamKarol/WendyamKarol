@@ -38,7 +38,7 @@ Ingénieur logiciel spécialisé en IA/ML et systèmes distribués. Je conçois 
 
 ## Projets Principaux
 
-### [RAG DRH - Recommandations RH intelligentes](https://github.com/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes)
+### [RH-RAG - Recommandations RH intelligentes](https://github.com/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes)
 Système modulaire pour analyser des évaluations RH, détecter les lacunes de compétences et proposer des formations adaptées via un pipeline RAG et une extension multi-agents.
 - Extraction des lacunes de compétences à partir d’évaluations textuelles.
 - Récupération de contenus pertinents (programmes, bonnes pratiques, études de cas) via FAISS.
