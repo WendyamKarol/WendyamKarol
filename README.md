@@ -2,8 +2,9 @@
 <h3 align="center">Software Engineer — Backend & AI </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer%20%7C%20ML-AI%20%7C%20Generative%20AI&center=true&vCenter=true&pause=1500&width=750" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer%20%7C%20ML-AI%20%7C%20Generative%20AI;IoT%20%7C%20Embedded%20Systems%20%7C%20Edge%20Computing;Always%20Learning%20%26%20Building%20!&center=true&vCenter=true&pause=1500&width=950" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <!-- Remplace par le lien vers ton CV PDF hébergé dans ton repo -->
@@ -20,7 +21,7 @@
 - 🚀 I build **scalable backend systems** and integrate **AI solutions** into cloud environments  
 - 🏢 Experience in **large-scale projects** with clients such as **EDF, TYPSA, BMCE Bank**  
 - 🌍 International background: French 🇫🇷 (native), English 🇬🇧 (fluent), Spanish 🇪🇸 (B1)  
-- 🎯 Currently looking for a **Software Engineer role (Backend/AI)** starting **Sept 2025**  
+- 🎯 Currently looking for a **Software Engineer role (Backend/AI)**
 - 📫 How to reach me: [Email](mailto:w.karolnaze@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karol-naze/)  
 
 ---
@@ -105,5 +106,12 @@ A <strong>Spring Boot</strong> microservice architecture with REST APIs and <str
 * **Data & AI Projects @ Independant R&D Engineer** 
   * Built **Infrastructure Optimizer** for anomaly detection & real-time recommendations.  
   * Designed a **Multimodal RAG engine** (GPT-4 Vision) for text & image extraction with 95% accuracy.  
-  * Created an **AI-powered training assistant** recommending personalized onboarding & career paths.  
+  * Created an **AI-powered training assistant** recommending personalized onboarding & career paths.
+ 
+  ---
+
+### 🏅 Motto  
+
+> *"Loyalty is a two-way street. If I'm asking for it from you then you're getting it from me."*  
+
 
