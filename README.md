@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Remplace par le lien vers ton CV PDF hébergé dans ton repo -->
-  <a href="https://raw.githubusercontent.com/WendyamKarol/WendyamKarol/main/CV_Karol_NAZE.pdf">
+  <a href="https://github.com/WendyamKarol/karol-resume">
     <img src="https://img.shields.io/badge/Download%20Resume-007ACC?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
 </p>
