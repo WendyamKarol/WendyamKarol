@@ -112,6 +112,57 @@ A <strong>Spring Boot</strong> microservice architecture with REST APIs and <str
 
 ### 🏅 Motto  
 
-> *"Loyalty is a two-way street. If I'm asking for it from you then you're getting it from me."*  
+> *"Loyalty is a two-way street. If I'm asking for it from you then you're getting it from me."*
+
+---
+
+---
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- GitHub Stats -->
+      <td style="width: 49%; height: 330px;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=WendyamKarol&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&hide=contribs" 
+          alt="Karol's GitHub Stats" 
+          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
+      </td>
+      <!-- GitHub Streak -->
+      <td style="width: 49%; height: 330px;">
+        <img 
+          src="https://streak-stats.demolab.com?user=WendyamKarol&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500&hide_longest_streak=true" 
+          alt="Karol's GitHub Streak" 
+          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WendyamKarol&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;•&nbsp;
+  <a href="https://github.com/WendyamKarol?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/WendyamKarol?color=236ad3&label=Followers&logo=github&logoColor=white&style=flat" />
+  </a>
+</p>
+
+</details>
+
+
+<details>
+<summary>🔍 Currently Learning</summary>
+
+* Building **Autonomous AI Agents** with LangChain
+* Applying **Business Analytics** with data-driven decision making   
+* Designing **Scalable IoT & Edge Systems**  
+* Quantitative Finance — mathematical modeling, time series analysis, and algorithmic trading systems.
+
+</details>
+
 
 
