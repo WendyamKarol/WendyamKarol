@@ -44,9 +44,8 @@ Also Skilled In:          C, C++, MATLAB, Linux Shell, Bash, React, HTML/CSS
 <td width="50%">
 <h3>⚡ Infrastructure Optimizer</h3>
 <p>
-🔍 Real-time anomaly detection & recommendations for infrastructure performance<br>
-⏱️ Anticipated incidents before user impact through intelligent monitoring<br>
-📈 Reduced downtime & improved system resilience<br><br>
+🔍 Engineered FastAPI backend with REST endpoints for genre prediction and recommendations, integrated with logging for performance monitoring.<br>
+
 <a href="https://github.com/WendyamKarol/infra-optimizer-llm">
 <img src="https://img.shields.io/github/stars/WendyamKarol/infra-optimizer-llm?style=social" />
 </a>
@@ -59,9 +58,7 @@ Also Skilled In:          C, C++, MATLAB, Linux Shell, Bash, React, HTML/CSS
 <td width="50%">
 <h3>🖼️ Moteur Multimodal</h3>
 <p>
-📑 Extraction & analysis of text + images with GPT-4 Vision<br>
-⚡ Achieved 95% accuracy on complex documents<br>
-⏳ Reduced research time by 30% in production workflows<br><br>
+📑 Built a multimodal RAG engine with GPT-4 Vision for text & image extraction, achieving 95% accuracy and reducing research time by 30%.  <br><br>
 <a href="https://github.com/WendyamKarol/IA-Projects-Hub/tree/main/RAG/NOTEBOOKS">
 <img src="https://img.shields.io/github/stars/WendyamKarol/IA-Projects-Hub?style=social" />
 </a>
@@ -76,9 +73,7 @@ Also Skilled In:          C, C++, MATLAB, Linux Shell, Bash, React, HTML/CSS
 <td width="50%">
 <h3>🎓 Assistant Formation</h3>
 <p>
-🤖 AI-powered recommendation tool for employee onboarding & career growth<br>
-📊 Suggested training paths from HR data using RAG + agents<br>
-✅ Improved internal knowledge access & training efficiency<br><br>
+🤖 An AI assistant that analyzes HR evaluations and recommends personalized onboarding & training paths using RAG pipelines and agents.<br><br>
 <a href="https://github.com/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes">
 <img src="https://img.shields.io/github/stars/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes?style=social" />
 </a>
@@ -91,9 +86,7 @@ Also Skilled In:          C, C++, MATLAB, Linux Shell, Bash, React, HTML/CSS
 <td width="50%">
 <h3>🤖 Microservice Autonomous Space Robot</h3>
 <p>
-🚀 Microservice architecture for controlling autonomous robot fleets<br>
-📡 Real-time monitoring & REST APIs for robot commands<br>
-🧪 Achieved 100% test coverage with TDD methodology<br><br>
+📡 A microservice architecture with REST APIs for real-time monitoring & control of autonomous robot fleets, fully tested with TDD (100% coverage).<br><br>
 <a href="https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot">
 <img src="https://img.shields.io/github/stars/WendyamKarol/Stack-Lab?style=social" />
 </a>
@@ -104,3 +97,18 @@ Also Skilled In:          C, C++, MATLAB, Linux Shell, Bash, React, HTML/CSS
 </td>
 </tr>
 </table>
+
+---
+
+### 💼 Experience  
+
+* **AI Engineer @ CGI (EDF Project)** | France | 03/2024 – 09/2024  
+  * Developed a Generative AI assistant reducing document search time by **70%** (~10 min saved/query).  
+  * Optimized LLM prompts, increasing answer accuracy by **25%**.  
+  * Integrated an OCR pipeline (PyTorch + TensorFlow) achieving **94% text recognition** on 200+ documents.  
+
+* **R&D Engineer – Data & AI Projects** | France | 2024 – 2025  
+  * Built **Infrastructure Optimizer** for anomaly detection & real-time recommendations.  
+  * Designed a **Multimodal RAG engine** (GPT-4 Vision) for text & image extraction with 95% accuracy.  
+  * Created an **AI-powered training assistant** recommending personalized onboarding & career paths.  
+
