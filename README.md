@@ -72,7 +72,7 @@ A multimodal <strong>RAG pipeline</strong> using <strong>GPT-4 Vision</strong>, 
 <td width="50%">
 <h3>🎓 Assistant Formation</h3>
 <p>
-An AI assistant that analyzes HR evaluations and recommends personalized onboarding & training paths using RAG pipelines and agents.<br><br>
+An AI assistant leveraging <strong>RAG pipelines</strong> and <strong>multi-agent architecture</strong> to analyze HR evaluations and recommend personalized onboarding & career development paths.<br><br>
 <a href="https://github.com/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes">
 <img src="https://img.shields.io/github/stars/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes?style=social" />
 </a>
