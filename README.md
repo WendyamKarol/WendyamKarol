@@ -46,7 +46,6 @@ Also Skilled In:          C, C++, MATLAB, Linux Shell, Bash, React, HTML/CSS
 <p>
 Backend built with <strong>Python, FastAPI, LangChain</strong> and a <strong>FAISS vector database</strong> for anomaly detection and optimization recommendations.<br>
 <a href="https://github.com/WendyamKarol/infra-optimizer-llm">
-<img src="https://img.shields.io/github/stars/WendyamKarol/infra-optimizer-llm?style=social" />
 </a>
 <a href="https://github.com/WendyamKarol/infra-optimizer-llm">
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" />
@@ -59,7 +58,6 @@ Backend built with <strong>Python, FastAPI, LangChain</strong> and a <strong>FAI
 <p>
 A multimodal <strong>RAG pipeline</strong> using <strong>GPT-4 Vision</strong>, <strong>LangChain</strong>, <strong>Unstructured</strong>, and <strong>FAISS</strong>, with a <strong>Streamlit</strong> interface for interactive document processing.<br><br> 
 <a href="https://github.com/WendyamKarol/IA-Projects-Hub/tree/main/RAG/NOTEBOOKS">
-<img src="https://img.shields.io/github/stars/WendyamKarol/IA-Projects-Hub?style=social" />
 </a>
 <a href="https://github.com/WendyamKarol/IA-Projects-Hub/tree/main/RAG/NOTEBOOKS">
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,7 +72,6 @@ A multimodal <strong>RAG pipeline</strong> using <strong>GPT-4 Vision</strong>, 
 <p>
 An AI assistant leveraging <strong>RAG pipelines</strong> and <strong>multi-agent architecture</strong> to analyze HR evaluations and recommend personalized onboarding & career development paths.<br><br>
 <a href="https://github.com/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes">
-<img src="https://img.shields.io/github/stars/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes?style=social" />
 </a>
 <a href="https://github.com/WendyamKarol/RAG-DRH-Recommandations-RH-intelligentes">
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" />
@@ -87,7 +84,6 @@ An AI assistant leveraging <strong>RAG pipelines</strong> and <strong>multi-agen
 <p>
 A <strong>Spring Boot</strong> microservice architecture with REST APIs and <strong>PostgreSQL</strong> for real-time monitoring, test coverage with <strong>TDD (JUnit)</strong>.<br><br>
 <a href="https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot">
-<img src="https://img.shields.io/github/stars/WendyamKarol/Stack-Lab?style=social" />
 </a>
 <a href="https://github.com/WendyamKarol/Stack-Lab/tree/main/microservice_autonomous_space_robot">
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" />
