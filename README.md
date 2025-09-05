@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karol NAZE</h1>
-<h3 align="center">Software Engineer — Backend & AI </h3>
+<h3 align="center">Software Engineer — Data & AI </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer%20%7C%20ML-AI%20%7C%20Generative%20AI;IoT%20%7C%20Embedded%20Systems%20%7C%20Edge%20Computing;Always%20Learning%20%26%20Building%20!&center=true&vCenter=true&pause=1500&width=950" alt="Typing SVG" />
