@@ -31,7 +31,7 @@
 Backend:                  Python(FastAPI, Django), Java(SpringBoot), Node.js, REST APIs
 Data:                     Pandas, NumPy, Data Visualization (Matplotlib) 
 ML:                       TensorFlow, PyTorch, OpenCV, Scikit-learn
-GenAI:                    OpenAI API, LangChain, Agentic AI (LLM Agents, Multi-Agent Systems)
+GenAI:                    OpenAI API, LangChain, LangGraph, Agentic AI (LLM Agents, Multi-Agent Systems)
 Cloud & DevOps:           Azure, AWS, Docker, Kubernetes, CI/CD, SQL, NoSQL
 Also Skilled In:          C, C++, MATLAB, Linux Shell, Rust, Bash, React, HTML/CSS
 ```
