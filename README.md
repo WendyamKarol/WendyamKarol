@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%7C%20Full-Stack Developer;Backend%20Engineer%20%7C%20ML-AI%20%7C%20Generative%20AI;IoT%20%7C%20Embedded%20Systems%20%7C%20Edge%20Computing;Always%20Learning%20%26%20Building%20!&center=true&vCenter=true&pause=1500&width=950" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%7C%20Full-Stack%20Developer;Backend%20Engineer%20%7C%20ML-AI%20%7C%20Generative%20AI;IoT%20%7C%20Embedded%20Systems%20%7C%20Edge%20Computing;Always%20Learning%20%26%20Building%20!&center=true&vCenter=true&pause=1500&width=950" alt="Typing SVG" />
 </p>
 
 
