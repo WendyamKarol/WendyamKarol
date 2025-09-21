@@ -29,12 +29,16 @@
 ### 🧰 Tech Stack
 
 ```yaml
-Backend:                  Python(FastAPI, Django), Java(SpringBoot), Node.js, REST APIs
-Data:                     Pandas, NumPy, Data Visualization (Matplotlib) 
-ML:                       TensorFlow, PyTorch, OpenCV, Scikit-learn
-GenAI:                    OpenAI API, LangChain, LangGraph, Agentic AI (LLM Agents, Multi-Agent Systems)
-Cloud & DevOps:           Azure, AWS, Docker, Kubernetes, CI/CD, SQL, NoSQL
-Also Skilled In:          C, C++, MATLAB, Linux Shell, Rust, Bash, React, HTML/CSS
+Languages:       Python, TypeScript, JavaScript, Java, C, C++ (STL), C#, Rust, Bash
+Frontend:        React, Angular, HTML/CSS
+Backend:         Node.js, NestJS, Django, FastAPI, .NET, Spring Boot, REST APIs
+Databases:       PostgreSQL, MongoDB, SQL, NoSQL
+AI & ML:         TensorFlow, PyTorch, Scikit-learn, OpenCV
+Generative AI:   OpenAI API, LangChain, LangGraph, Agentic AI (LLM Agents, Multi-Agent Systems)
+Data:            Pandas, NumPy, Data Visualization (Matplotlib)
+Cloud & DevOps:  Azure, AWS, Docker, Kubernetes, GitHub Actions (CI/CD), Git
+Concepts:        Architecture hexagonale, Clean Code, SOLID, TDD, DDD, POO, Design Patterns
+Also Skilled In: MATLAB, Linux Shell, Documentation, Agile/Scrum
 ```
 ----
 
