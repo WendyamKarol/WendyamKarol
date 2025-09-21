@@ -2,8 +2,9 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer%20%7C%20ML-AI%20%7C%20Generative%20AI;IoT%20%7C%20Embedded%20Systems%20%7C%20Edge%20Computing;Always%20Learning%20%26%20Building%20!&center=true&vCenter=true&pause=1500&width=950" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%7C%20Full-Stack;Backend%20Engineer%20%7C%20ML-AI%20%7C%20Generative%20AI;IoT%20%7C%20Embedded%20Systems%20%7C%20Edge%20Computing;Always%20Learning%20%26%20Building%20!&center=true&vCenter=true&pause=1500&width=950" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
@@ -92,28 +93,6 @@ A <strong>Spring Boot</strong> microservice architecture with REST APIs and <str
 </td>
 </tr>
 </table>
-
----
-
-### 💼 Experience  
-
-* **AI Engineer @ CGI (EDF Project)**  
-  * Developed a Generative AI assistant reducing document search time by **70%** (~10 min saved/query).  
-  * Optimized LLM prompts, increasing answer accuracy by **25%**.  
-  * Integrated an OCR pipeline (PyTorch + TensorFlow) achieving **94% text recognition** on 200+ documents.  
-
-* **Data & AI Projects @ Independant R&D Engineer** 
-  * Built **Infrastructure Optimizer** for anomaly detection & real-time recommendations.  
-  * Designed a **Multimodal RAG engine** (GPT-4 Vision) for text & image extraction with 95% accuracy.  
-  * Created an **AI-powered training assistant** recommending personalized onboarding & career paths.
- 
-  ---
-
-### 🏅 Motto  
-
-> *"Loyalty is a two-way street. If I'm asking for it from you then you're getting it from me."*
-
----
 
 ---
 
