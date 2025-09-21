@@ -21,7 +21,7 @@
 - 🚀 I build **scalable backend systems** and integrate **AI solutions** into cloud environments  
 - 🏢 Experience in **large-scale projects** with clients such as **EDF, TYPSA, BMCE Bank**  
 - 🌍 International background: French 🇫🇷 (native), English 🇬🇧 (fluent), Spanish 🇪🇸 (B1)  
-- 🎯 Currently looking for a **Software Engineer role (Backend/AI)**
+- 🎯 Currently looking for a **Software Engineer full-stack role **
 - 📫 How to reach me: [Email](mailto:w.karolnaze@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karol-naze/)  
 
 ---
